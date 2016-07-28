@@ -4,7 +4,7 @@
   "authors": [
     "Abdullah Almsaeed <abdullah@almsaeedstudio.com>"
   ],
-  "version": "v2.3.5-360",
+  "version": "v2.3.36",
   "description": "Admin dashboard and control panel template",
   "main": [
     "index2.html",

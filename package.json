@@ -1,6 +1,6 @@
 {
-  "name": "admin-lte",
-  "version": "2.3.5-360",
+  "name": "admin-lte-360fonts",
+  "version": "2.3.36",
   "main": "dist/js/app.min.js",
   "repository": {
     "type": "git",
